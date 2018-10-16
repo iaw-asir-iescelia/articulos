@@ -14,3 +14,7 @@ Lista de artículos de interés relacionados con el contenido del módulo
 ## Web Servers
 
 - [Configuring your server to provide HTTPS using Let's Encrypt and Nginx](https://hackernoon.com/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41). 2018-09-24.
+
+## MERN Stack
+
+- [How to deploy a MERN stack app on Heroku](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70). 2018-10-12.
