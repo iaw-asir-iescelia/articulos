@@ -18,3 +18,7 @@ Lista de artículos de interés relacionados con el contenido del módulo
 ## MERN Stack
 
 - [How to deploy a MERN stack app on Heroku](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70). 2018-10-12.
+
+## PHP
+
+- [Esto es un problema, más del 60% de todas las webs en Internet usan una versión de PHP que estará muerta a final de 2018](https://www.genbeta.com/seguridad/esto-problema-60-todas-webs-internet-usan-version-php-que-estara-muerta-a-final-2018). 2018-10-17.
