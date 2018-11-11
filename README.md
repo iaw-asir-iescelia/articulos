@@ -22,3 +22,7 @@ Lista de artículos de interés relacionados con el contenido del módulo
 ## PHP
 
 - [Esto es un problema, más del 60% de todas las webs en Internet usan una versión de PHP que estará muerta a final de 2018](https://www.genbeta.com/seguridad/esto-problema-60-todas-webs-internet-usan-version-php-que-estara-muerta-a-final-2018). 2018-10-17.
+
+## Servicios
+
+- [Bitnami, la startup sevillana que mantiene las aplicaciones de las nubes de Amazon, Google y Microsoft](https://www.xataka.com/servicios/bitnami-startup-sevillana-que-mantiene-aplicaciones-nubes-amazon-google-microsoft). 2018-07-23.
